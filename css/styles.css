@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
 @import "header.css";
 @import "navigationbar.css";
+@import "friends.css";
 
 body {
   background-color: white;
@@ -14,6 +15,7 @@ body {
 
 a {
   color: inherit;
+  text-decoration: none;
 }
 
 * {
